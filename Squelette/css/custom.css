@@ -39,6 +39,25 @@ div>a{
 footer{
     background-color: #f74c3c;
 }
+
+#test{
+    display:flex;
+    height:600px;
+    justify-content: space-between;
+    
+}
+#monter{
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    right:50px;
+    bottom:50px;
+
+
+}
+html{
+    scroll-behavior: smooth;
+}
 /* Responsive Styling */
 
 @media (max-width: 1199px) {
