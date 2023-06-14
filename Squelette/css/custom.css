@@ -58,6 +58,17 @@ footer{
 html{
     scroll-behavior: smooth;
 }
+/*modal */
+
+
+.hidden{
+    display:none;
+}
+.btn-close{
+    width: 30px;
+    border-radius: 100%;
+}
+
 /* Responsive Styling */
 
 @media (max-width: 1199px) {
